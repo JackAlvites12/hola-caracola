@@ -1,1 +1,1 @@
-print("Soy el ejercicio 2 version master")
+print("Soy el ejercicio 2 stash")
